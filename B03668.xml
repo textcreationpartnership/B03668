@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rhythmos basilikos By the honourable E.H. of Suffolk.</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03668</idno>
+            <idno type="STC">Wing H22</idno>
+            <idno type="STC">ESTC R177769</idno>
+            <idno type="EEBO-CITATION">52212025</idno>
+            <idno type="OCLC">ocm 52212025</idno>
+            <idno type="VID">175696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175696)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2746:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rhythmos basilikos By the honourable E.H. of Suffolk.</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>[1], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, near the Oxford Arms Inn in VVorick Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>Imperfect: cropped at foot with some loss of footnoted text.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175696:1" rendition="simple:additions"/>
+            <p>Ρ̓ΥΘΜῸΣ ΒΑΣΙΛΙΚῸΣ:</p>
+            <p>Being an HEROICK POEM, Humbly Offered to His Moſt Sacred MAJESTY WILLIAM the III. KING OF Great Britain; Upon his Arrival from HOLLAND.</p>
+            <p>By the Honourable <hi>E. H.</hi> of <hi>Suffolk.</hi>
+            </p>
+            <p>
+               <q xml:lang="lat">Arma Virumque cano—</q> 
+               <bibl>Virg. AEn. Lib. I.</bibl>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford Arms</hi> Inn in <hi>VVorick Lane,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:175696:2"/>
+            <pb n="3" facs="tcp:175696:2" rendition="simple:additions"/>
+            <head>Ρ̓ΥΘΜῸΣ ΒΑΣΙΛΙΚῸΣ:</head>
+            <head>AN Heroick Poem, &amp;c.</head>
+            <lg>
+               <l>HAil! Heaven-born Prince, o'th' Gods the chiefeſt Care;</l>
+               <l>Mirror of Kings, the Life and Soul of War:</l>
+               <l>Thy Num'rous Triumphs to the World proclaim,</l>
+               <l>That <hi>Naſſaw</hi>'s Deeds, are equal to his Name.</l>
+               <l>Where e're the Hero moves, he fills the ſight,</l>
+               <l>At once with Wonder, and a bleſs'd Delight.</l>
+               <l>A Prince endu'd with more than mortal Fire,</l>
+               <l>Whoſe Val'rous Acts, <hi>even Gods themſelves Admire.</hi>
+               </l>
+               <l>Flame to his Army Great <hi>Naſſaw</hi> does give,</l>
+               <l>And weak'ned Troops by him Subdue, and live.</l>
+               <l>Hail! Auguſt <hi>Sir,</hi> whoſe Mild, but Potent Arm,</l>
+               <l>In Battle ſeems, the very Dead to warm.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>The <hi>Senate</hi> bends before your Radiant Throne,</l>
+                  <l>Where Seven great Lords bear to <hi>Naſſaw</hi> that Crown,</l>
+                  <l>Which He ſo Nobly to their Truſt lay down.</l>
+               </lg>
+               <pb n="4" facs="tcp:175696:3" rendition="simple:additions"/>
+               <l> As when bright <hi>Sol</hi> to ſome new Clime do's go,</l>
+               <l>And there amidſt the ſhades his warmth beſtow;</l>
+               <l>The unfrequented Groves to Deſerts turn,</l>
+               <l>For whoſe bleſs'd Rays the Springs and Fountains Mourn:</l>
+               <lg>
+                  <l>Flow'rs hang down their drooping Heads and fade;</l>
+                  <l>The trueſt Emblems of a Virgin Maid,</l>
+                  <l>Which oft by them are in their Boſoms laid.</l>
+               </lg>
+               <l>So, Glorious <hi>Sir,</hi> ſince you have left this Iſle,</l>
+               <l>No Beauteous Nymph would e're vouchſafe to Smile;</l>
+               <l>Becauſe <hi>Naſſaw</hi> ſhin'd not in Perſon here,</l>
+               <l>Summer to us but faintly would appear:</l>
+               <lg>
+                  <l>Yet now when you your Royal Beams diſplay,</l>
+                  <l>Times Circle ſeems but one continued Day,</l>
+                  <l>And the glad Hours in Bliſs diſſolve away.</l>
+               </lg>
+               <l>Long has <hi>Britannia</hi> wiſh'd her Lord's Return,</l>
+               <l>Oft to the Gods would Holy Incenſe burn.</l>
+               <lg>
+                  <l>Much the Nymph mus'd on <hi>Naſſaw</hi>'s Noble Race,</l>
+                  <l>Pleas'd with each Feature of his God-like Face,</l>
+                  <l>His Gen'rous Meen, and ev'ry Martial Grace.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>William</hi> was All, which did her Thoughts employ,</l>
+                  <l>
+                     <hi>OEnone</hi> like, when <hi>Paris</hi> went to <hi>Troy,</hi>
+                  </l>
+                  <l>
+                     <hi>Albions</hi> Delight, and chaſt <hi>Britannia</hi>'s Joy.</l>
+               </lg>
+               <l>To diſtant Waves many a Look ſhe made,</l>
+               <l>Which from the Shore her Heavenly Prince convey'd.</l>
+               <l>
+                  <hi>Hero</hi> † cou'd not <hi>Leander</hi> more bewaile</l>
+               <l>That Night, when fore'd her longing Arms to fail:</l>
+               <pb n="5" facs="tcp:175696:3" rendition="simple:additions"/>
+               <l> In vain ſhe call'd on Dear <hi>Leander</hi>'s Name,</l>
+               <l>When the Suns-beams put out the Taper's flame.</l>
+               <l>Often the Nymph heav'd up her naked Breaſt,</l>
+               <l>And to the Winds and Seas much care expreſt:</l>
+               <l>
+                  <hi>Naſſaw</hi> by Day was ever in her ſight,</l>
+               <l>Who bore his Image in ſoft Dreams by Night.</l>
+               <l>
+                  <hi>Dido</hi> to<note n="*" place="margin">Virg. Lib. 4.</note> 
+                  <hi>Anna</hi> weeping did impart</l>
+               <l>Like Grief, when Love reign'd Monarch of her Heart:</l>
+               <lg>
+                  <l>The <hi>Tyrian Queen</hi> could no free paſſage find,</l>
+                  <l>Thrô which to vent the Anguiſh of her Mind,</l>
+                  <l>The God as Cruel, as her Siſter, kind:</l>
+               </lg>
+               <l>Not that the ſhining Sword, or glitt'ring Spear,</l>
+               <l>Rais'd in <hi>Britannia</hi>'s Mind this Virgin fear.</l>
+               <l>Wond'rous <hi>Naſſaw</hi> can of himſelf Alone</l>
+               <l>Slay † Elephants, and throw ſtrong Caſtles down:</l>
+               <l>But that which Rob'd this Beauteous Nymph of reſt,</l>
+               <l>l Wounding with Tears and Sighs her Snowy Breaſt;</l>
+               <lg>
+                  <l>Who on a Couch wou'd lean Oppreſs'd with Care,</l>
+                  <l>In look, than the bright <hi>Paphian</hi> Queen more fair;</l>
+                  <l>With Mantle looſe, diſchevell'd all her Hair:</l>
+               </lg>
+               <l>Were Thoughts the Pious Nymph did entertain,</l>
+               <l>Leſt a <hi>Ravillac</hi> her lov'd Prince had ſlain.</l>
+               <l>'Twas not the Fate of War, or <hi>Villeroy</hi>'s Fame,</l>
+               <l>Which blew the Fuel of her inward Flame.</l>
+               <l>
+                  <hi>Naſſaw</hi> in Arms, Superiour is to all,</l>
+               <l>And at the Hero's Feet, whole Armies fall.</l>
+               <pb n="6" facs="tcp:175696:4" rendition="simple:additions"/>
+               <l> Nought but vile Plots encreas'd <hi>Britannia</hi>'s Pain,</l>
+               <l>Working thrô all her Limbs and ev'ry Vein.</l>
+            </lg>
+            <lg>
+               <l>Poyſon and Dagger are <hi>Rome</hi>'s Inſtruments,</l>
+               <l>By which She Blood thrô the wide Orb forments:</l>
+               <l>Renown'd as much for her unbounded Luſt,</l>
+               <l>As <hi>France</hi> more falſe than <hi>Carthage</hi> to her Truſt.</l>
+               <l>
+                  <hi>Rome,</hi> Mother is of all the blackeſt Vice;</l>
+               <l>Thô ſure St. <hi>Peter</hi> never taught Her this:</l>
+               <l>Witneſs ye Gods, when <hi>Hell</hi> with <hi>Jeſuits</hi> joyn'd,</l>
+               <l>And Him to Murder in cold Blood combin'd.</l>
+            </lg>
+            <lg>
+               <l>Yet Heaven, Great <hi>Sir,</hi> indulgent to the Brave,</l>
+               <l>Is fix'd in her Decrees your Life to ſave:</l>
+               <l>
+                  <hi>Naſſaw,</hi> who has in War ſo often ſtood,</l>
+               <l>With Angels Face, <hi>'midſt Storms of Fire and Blood;</hi>
+               </l>
+               <l>Who Cannon-Balls Serenely does deſpiſe,</l>
+               <l>Daſh'd on the Earth with Lightning from his Eyes.</l>
+               <lg>
+                  <l>The Gods that from above, look down and ſee,</l>
+                  <l>Thy Brow adorn'd with Crowns of Victory,</l>
+                  <l>Will Guard your Sacred Breaſt from Treachery.</l>
+               </lg>
+               <l>By impious Hands <hi>William</hi>'s too brave to Dye;</l>
+               <l>Yea, <hi>Naſſaw</hi> may the Rage of Hell defie.</l>
+               <l>Thoſe Lawrels which from Foreign Lands you've bore,</l>
+               <l>Surpaſs what e're Old <hi>Romes</hi> fam'd Counſuls wore.</l>
+               <l>The Wreaths which round Great <hi>William</hi>'s Temples ſhine,</l>
+               <l>Declare his Perſon, as his Soul, Divine.</l>
+               <l>Urg'd by the matchleſs Trophies of <hi>Naſſaw,</hi>
+               </l>
+               <pb n="7" facs="tcp:175696:4" rendition="simple:additions"/>
+               <l> Who with his Conq'ring Sword keeps <hi>France</hi> in awe.</l>
+               <l>
+                  <hi>Apollo</hi> now, Inſpire my Muſe with Verſe,</l>
+               <l>That I once more, may <hi>William</hi>'s Praiſe Rehearſe:</l>
+               <l>Tune then <hi>Thalia</hi> thy Harmoninous Lyre;</l>
+               <l>Raiſe thy low Voice, and mount to Heaven for Fire.</l>
+            </lg>
+            <lg>
+               <l>I'th' Glorious Tracts of an Eternal ſpace,</l>
+               <l>Where none Aſcend but of Angellick Race.</l>
+               <l>Seraphs and Cherubs all about they fly,</l>
+               <l>The Winged Powers o'th' Imperial Sky.</l>
+               <l>Encircled with the Radiant Beams of Light,</l>
+               <l>Where wakeful Day ſecludes the ſleepy Night;</l>
+               <l>The Majeſty of Heaven Serenely ſat,</l>
+               <l>Pond'ring which way a Hero to Create;</l>
+               <l>Whoſe War-like Deeds all <hi>Aera</hi>'s might ſurvive,</l>
+               <l>And Sons of <hi>Mars</hi> in him be taught to live:</l>
+               <lg>
+                  <l>Which Image we, in Great <hi>Naſſaw</hi> behold,</l>
+                  <l>Numbers too weak his Virtues to unfold;</l>
+                  <l>As <hi>Neſtor</hi> Sage, and as <hi>Achilles</hi> Bold.</l>
+               </lg>
+               <l>
+                  <hi>Sparta</hi> nor <hi>Thebes</hi> could ever Parallel</l>
+               <l>His Acts, which even <hi>Demy-Gods</hi> excel.</l>
+               <l>In <hi>Albions</hi> Prince kind Heaven is pleas'd to ſhew,</l>
+               <l>What, at her Will, Infinity can do.</l>
+               <l>The Beſt of Kings in whoſe mild Breaſt is All,</l>
+               <l>That Man, or truely Brave, or Good can call:</l>
+               <lg>
+                  <pb n="8" facs="tcp:175696:5" rendition="simple:additions"/>
+                  <l>'Gainſt <hi>Gallic</hi> Troops himſlelf Perſon goes,</l>
+                  <l>Who to his Captives Royal Pitty ſhews,</l>
+                  <l>And Generouſly treats the worſt of Foes.</l>
+               </lg>
+               <lg>
+                  <l>Juſtly might <hi>William</hi> Rule this Orb alone,</l>
+                  <l>VVhile <hi>Eaſtern</hi> Kings turn Vaſſals to his Throne,</l>
+                  <l>And him great Monarch of the VVorld do own.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>From the bleſs'd VVomb of a <hi>Coeleſtial Dame,</hi>
+               </l>
+               <l>Immenſe in all the Rudiments of Fame,</l>
+               <l>Great <hi>Naſſaw</hi> Sprung: To whom all Homage's due;</l>
+               <l>Kin to the Gods, and to his Country True.</l>
+               <l>Bounded are Monarchs in their Soveraign Rule;</l>
+               <l>Yet <hi>Naſſaw</hi> ſeems wide <hi>Europe</hi> to Controul:</l>
+               <l>Upon his Sword vaſt Empires do depend,</l>
+               <l>And Valiant Princes Court him for their Friend.</l>
+               <l>
+                  <hi>William,</hi> when but a Youth, did Glory ſeek,</l>
+               <l>As <hi>Marius</hi> brave, and as † <hi>Timoleon</hi> meek:</l>
+               <l>Gallant <hi>Marcellus!</hi> who the <hi>Gauls</hi> o'rethrew,</l>
+               <l>And with his Lance<note n="*" place="margin">
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Viridomarus</hi> ſlew,</l>
+               <l>Unto <hi>Naſſaw</hi> in Arms inferiour was;</l>
+               <l>His Deeds all humance Courage do ſurpaſs.</l>
+               <l>
+                  <note n="†" place="bottom">
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+                  <hi>Emilius</hi> cou'd ne're ſuch Vict'ries boaſt;</l>
+               <l>Nor he who overcame the <hi>Punic Hoſt.</hi>
+               </l>
+               <l>
+                  <hi>Agis, Numa,</hi>
+                  <note n="*" place="margin">
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ii<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </note> 
+                  <hi>Furius,</hi> great Men they were,</l>
+               <l>Thô they to <hi>William</hi> no Reſemblance bear.</l>
+               <l>At <hi>Cannae Hannibal</hi> the <hi>Romans</hi> fought,</l>
+               <pb n="9" facs="tcp:175696:5"/>
+               <l> And by his Sword Immortal Glory got.</l>
+               <l>
+                  <hi>Emp'rours</hi> and<note n="*" place="margin">Colon<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </note> 
+                  <hi>Tribunes</hi> fell by's ſingle Hard;</l>
+               <l>Where he the <hi>Legions</hi> charg'd, there none durſt ſtand:</l>
+               <l>Who e're with him in Battle did Engage,</l>
+               <l>Was ſure to fall a <hi>Victim</hi> to his Rage:</l>
+               <l>Yet cou'd this Chief, Life in himſelf Renew,</l>
+               <l>Might his great Actions, ſee out-done in you.</l>
+               <l>The<note n="*" place="margin">
+                     <hi>Alexa<gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> Surnam<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Great.</note> 
+                  <hi>Macedonian</hi> Prince, more Raſh than Brave,</l>
+               <l>Countries Deſtroy'd; but You, whole Kingdoms ſave:</l>
+               <l>
+                  <hi>Locuſts,</hi> which did of late this Land Infeſt,</l>
+               <l>Working their Poyſon in the Infants Breaſt;</l>
+               <l>Like Birds of Night, when you appear'd by Day,</l>
+               <l>Fled to their <hi>Cells,</hi> nor wou'd no longer ſtay.</l>
+               <l>Proud <hi>Caeſar</hi> who let the brave<note n="*" place="margin">Pomp<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Pennus</note> 
+                  <hi>Pompey</hi> kneel,</l>
+               <l>That he to <hi>Rome</hi> his † Slipper might Reveal:</l>
+               <l>Like thine, his Breaſt could ne're ſuch Ardour feel;</l>
+               <l>No, not when <hi>Caius</hi> ſat Enthron'd in State,</l>
+               <l>And Haughtily <hi>Surviv'd</hi> his Captive's Fate.</l>
+            </lg>
+            <lg>
+               <l>When All-Juſt Heav'n <hi>Naſſaw</hi>'s large Soul did frame,</l>
+               <l>Double the Portion of Coeleſtial Flame,</l>
+               <l>Great Jove infus'd; in whom we clearly ſee,</l>
+               <l>The bright Impreſſes of Divinity.</l>
+               <l>On Earth, no Monarch can with him Compare,</l>
+               <l>Like to the Gods, his Breaſt exempt from Fear.</l>
+               <l>Ambitious <hi>Lewis</hi> * <hi>Holland</hi> did Invade,<note place="margin">In the <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 72</note>
+               </l>
+               <l>And Cities all around in Aſhes lay'd;</l>
+               <pb n="10" facs="tcp:175696:6" rendition="simple:additions"/>
+               <l> Temples Deſtroyd, nor wou'd the Altars ſpare,</l>
+               <l>Thô to the Gods they Conſecrated were:</l>
+               <l>War and Diſtreſs throughout the Land was ſpread;</l>
+               <l>In every Place lay mighty heaps of Dead.</l>
+               <l>Gray-headed Senators of Reverend Meen,</l>
+               <l>A tropid Horrour in their Looks were ſeen;</l>
+               <l>The tender Virgins, with Heart-rending Crys,</l>
+               <l>And Sighs of Aged <hi>Matrons</hi> peirc'd the Skys.</l>
+               <lg>
+                  <l>
+                     <hi>Naſſaw,</hi> then from his Throne of State aroſe,</l>
+                  <l>In Perſon went the Tyrant to Oppoſe;</l>
+                  <l>And reſcu'd weeping <hi>Belgia</hi> from her Foes.</l>
+               </lg>
+               <l>
+                  <note n="†" place="bottom">A Town in <hi>Holland,</hi> where his preſent Majeſty King <hi>William,</hi> with no more than two Hundred Burgers, and an hundred Gariſon Souldiers, twice Repulſed above Five Thouſand of the <hi>French,</hi> from before the Walls of <hi>Arden<g ref="char:EOLhyphen"/>burg;</hi> and beſides the Slain, took five Hundred Priſoners, with ſeveral Commanders and Perſons of Quality. This Great Action was perform'd in or about the Year, MDCLXXII.</note> 
+                  <hi>Bodegrave</hi> will e're Adore Great <hi>William</hi>'s Name,</l>
+               <l>And <hi>Altars</hi> raiſe to his Eternal Fame:</l>
+               <l>When to their Troops, <hi>Naſſaw</hi> Advanced near,</l>
+               <l>He ſtruck the <hi>Gallic</hi> Generals with Fear;</l>
+               <l>Even <hi>Conde</hi> himſelf durſt not appear.</l>
+            </lg>
+            <lg>
+               <l>Deſcend my Muſe, and leave Great <hi>William</hi>'s Praiſe</l>
+               <l>To them of skill in <hi>Sophoclean</hi> Layes:</l>
+               <l>Him, who Prince <hi>Arthur</hi> Sings in lofty Strain;</l>
+               <l>Or<note n="*" place="margin">Dorſet.</note> he, who Lord of Wit, and Verſe does Raign.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
